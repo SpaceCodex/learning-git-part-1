@@ -1,6 +1,10 @@
 origin of this file is user: Galaxy
 
 
+<<<<<<< HEAD
 
 
 i'm fine.... what about you bro...... ?
+=======
+Hello...... Viru.... How are you?
+>>>>>>> 96048e6e984f699539f576ae30f35031e22bb70a
